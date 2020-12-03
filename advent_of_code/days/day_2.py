@@ -1,6 +1,7 @@
 import csv
 
 # https://adventofcode.com/2020/day/2
+
 def main():
     my_input = []
     with open('advent_of_code/input/day_2.csv', newline='') as inputfile:

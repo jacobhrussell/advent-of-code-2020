@@ -1,6 +1,7 @@
 import csv
 
 # https://adventofcode.com/2020/day/1
+
 def main():
 
     my_input = []
